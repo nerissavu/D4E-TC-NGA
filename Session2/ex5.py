@@ -1,6 +1,6 @@
 count = 0
 
-# switch = True
+switch = True
 while switch:
     if count == 5:
         switch = False

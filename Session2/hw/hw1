@@ -1,0 +1,30 @@
+1. What is Boolean? Write down 3 different expression that results a Boolean type.
+- A Boolean value is either true or false.
+- Example:
++ 2>3 -> False
++ 3==4 -> False
++ 7 == (3+4) -> True
+
+2. What is a flow chart? Draw flow chart for the following code snippet: (you can draw on a
+paper, take a picture of it)
+- A flowchart is a type of diagram that represents a workflow or process.
+            if name == “Anh Quan":
+            print(“Hand some")
+            elif name == “Minh Duc":
+            even_more_handsome = True
+            else:
+            webbrowser.open(“https://www.youtube.com/watch?v=04854XqcfCY”)
+- FLOW CHART
+3. What is nested conditionals? Write a piece of code that uses nested conditionals
+- Nested conditions comprise condition statements contained within the definition of other condition statements. Nested conditions work as follows:
++ You can group multiple condition statements. Conditions consisting of multiple statements are connected using the logical AND and OR operators.
++ You can also nest statements, so that one statement is contained within the definition of another statement.
+
+- Example:
+if x > y: 
+    print('Lon hon')
+else:
+    if x < y:
+        print('Be hon')
+    else:
+        print('Bang nhau')
