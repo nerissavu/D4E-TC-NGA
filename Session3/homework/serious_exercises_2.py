@@ -34,4 +34,4 @@ for i in range(3):
 total_size = sum(list_sheep)
 print('My flock has size in total:', total_size)
 total_money = total_size*2
-print('I would get', total_size,'* 2$ =', total_money)
+print('I would get', total_size,'* 2$ =', total_money,'$')
